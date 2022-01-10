@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = anna.g.gatland@gmail.com
+	name = anna gatland
